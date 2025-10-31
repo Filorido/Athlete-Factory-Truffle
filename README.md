@@ -136,7 +136,7 @@ truffle exec scripts/show_my_athletes.js
 ---
 
 ## 👨‍💻 Author
-**Filippo Ridolfi**  
+**Filorido**  
 Blockchain project using Truffle and Solidity.  
 Made with ❤️ for learning and experimentation.
 
